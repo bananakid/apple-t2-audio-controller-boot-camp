@@ -1,6 +1,6 @@
 # Apple T2 audio controller APO for Boot Camp
 
-This package aims to fix dramatically poor built-in speakers output of **2019 & 2020 16-inch MacBook Pro** in Windows 10 & 11 without affecting computer performance.
+This package aims to fix dramatically poor built-in speakers output of **2019 & 2020 16-inch MacBook Pro equipped with Apple T2 security chip** in Windows 10 & 11 without affecting computer performance.
 
 > [!WARNING]  
 > Only **MacBookPro16,1** & **MacBookPro16,4** models are supported. See [this](https://support.apple.com/en-us/HT201608) or [this](https://support.apple.com/en-us/HT201581) support article to identify your model. Do not attempt to use this with any other computer because it may lead to permanent speaker damage of your computer!
